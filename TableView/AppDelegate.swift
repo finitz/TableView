@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  TableView
-//
-//  Created by Narek Safaryan on 10/24/19.
-//  Copyright © 2019 Narek Safaryan. All rights reserved.
-//
 
 import UIKit
 
